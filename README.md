@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashika9013&label=Profile%20views&color=0e75b6&style=flat" alt="yashika9013" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashika9013" alt="yashika9013" /></a> </p>
-
 - 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **react.js , dsa**
