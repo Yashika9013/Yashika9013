@@ -8,6 +8,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://everythinganimee.com/cdn/shop/files/14406a6326bac5ccac8a3f09a122dcac_4405f374-5a95-4fcd-a81a-f45476b6bb74.gif?v=1691980728"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashika9013&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="164" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Yashika9013&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="162" alt="streak graph"  />
@@ -17,7 +23,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -41,7 +47,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/yashika-prajapati-0aa678271/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -52,14 +58,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://everythinganimee.com/cdn/shop/files/14406a6326bac5ccac8a3f09a122dcac_4405f374-5a95-4fcd-a81a-f45476b6bb74.gif?v=1691980728"  />
-
-###
-
-<p align="left">Thanks For view my profile😉💖</p>
-
-
 
