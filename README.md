@@ -42,7 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-
+###
+[![Yashika9013's GitHub | Stats](https://stats.quira.sh/Yashika9013/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yashika9013)
+###
+[![Yashika9013's GitHub | Languages Over Time](https://stats.quira.sh/Yashika9013/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yashika9013)
 ###
 
 <br clear="both">
