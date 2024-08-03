@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">I am Yashika😊. I am from India and currently doing my B.Tech from Netaji Subhas university of technology  New Delhi 🏫. I love to explore 💖and learn about new things😎<br><br>🔭 I’m currently working on My portfolio<br><br>🌱 I’m currently learning :react.js , dsa<br><br>👯 I’m looking to collaborate on hackthons<br><br>📫 How to reach me : yashikaparjapati2003@gmail.com<br><br>⚡ Fun fact : I am a weeb.</p>
+<p align="left">I am Yashika😊. I am from India and  doing my B.Tech from Netaji Subhas University of Technology  New Delhi 🏫. I love to explore 💖and learn about new things😎<br><br>🔭 I’m currently working on My portfolio<br><br>🌱 I’m currently learning: react.js, DSA, tailwind CSS, Mongodb,<br><br>👯 I’m looking to collaborate on hackthons<br><br>📫 How to reach me: yashikaparjapati2003@gmail.com<br><br>⚡ Fun fact: I am a weeb.</p>
 
 ###
 
