@@ -15,8 +15,6 @@
 
 
 
-[![Yashika9013's GitHub | Stats](https://stats.quira.sh/Yashika9013/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yashika9013)
-[![Yashika9013's GitHub | Languages Over Time](https://stats.quira.sh/Yashika9013/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yashika9013)
 ###
 
 <br clear="both">
