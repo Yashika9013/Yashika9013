@@ -1,50 +1,61 @@
-<h1 align="center">Hi there, I'm Yashika! 👋</h1>
+<h1 align="center">Hi, I'm Yashika 👋</h1>
 
 <p align="center">
-  <em>
-    A passionate tech explorer, anime lover, and B.Tech student from 🇮🇳 India.<br>
-    Always learning. Always building. Always dreaming big.
-  </em>
+  <em>AI Engineer • Prompt Engineer • RAG & NLP Enthusiast • Always learning, always building</em>
 </p>
 
 ---
 
-## 🌸 About Me
+## 🔍 About Me
 
-- 🎓 I’m a B.Tech student at **Netaji Subhas University of Technology (NSUT), New Delhi**
-- 🔭 Currently working on **my developer portfolio**
-- 🌱 Learning: `React.js`, `Tailwind CSS`, `MongoDB`, and sharpening my `DSA` skills
-- 👯 Looking to collaborate on **hackathons** and exciting open-source projects
-- 💬 Ask me about **frontend dev, anime, or cool new tech**
+- 🎓 B.Tech student (Mathematics & Computing – CSE) at **NSUT, New Delhi**
+- 🤖 Passionate about **LLMs, Prompt Engineering, NLP, RAG pipelines, and Applied AI**
+- 🛠 Currently building:  
+  → Production-style **RAG systems**  
+  → **Prompt-optimized LLM applications**  
+  → AI-powered recommendation tools  
+- 🌱 Learning: LangChain, Vector Databases, Model Optimization, MLOps basics  
+- 💬 Ask me about AI, LLMs, NLP, prompt design, or cracking DSA  
 - 📫 Reach me at: **yashikaparjapati2003@gmail.com**
-- ⚡ Fun fact: *I'm a total weeb 😎*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack (Aligned to AI Roles)
 
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+### **Core AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+
+### **LLMs / NLP**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
+
+### **Full-Stack / Tools**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="mailto:yashikaparjapati2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+### 🔹 **RAG-based Virtual Mentor Chatbot**
+Optimized prompts, built embeddings pipeline, integrated Ollama LLMs, and achieved **<2.5s response time**.
+
+### 🔹 **Smart Career Recommender (RAG + Recommendations)**
+- Used MiniLM embeddings + cosine similarity  
+- Achieved **15% Recall@3 boost**  
+- Built full UI in Streamlit  
+
+### 🔹 **Unicorn Valuation Prediction (ML Modeling)**
+- EDA + engineered features  
+- OLS vs Random Forest  
+- Achieved **R² = 0.91**
 
 ---
 
@@ -57,22 +68,19 @@
 
 ---
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashika-prajapati-0aa678271/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:yashikaparjapati2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yashika-prajapati-0aa678271/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="yashikaparjapati2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-## 💖 Thanks for visiting my profile!
+<p align="center">
+  <em>“Building cool things with AI, one prompt at a time.”</em>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRoYmppdndnbmRraW9xZGk3NnB3eXllbXhxZWgybWpsazFvczF4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
